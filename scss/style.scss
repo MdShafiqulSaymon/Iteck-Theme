@@ -281,6 +281,16 @@ body {
 			height: 100%;
 		}
 	}
+	@media screen and (max-width: 969px) {
+		.image1,
+		.image2,
+		.image3,
+		.image4,
+		.image5,
+		.image6 {
+			display: none;
+		}
+	}
 }
 
 .feat-dark {
